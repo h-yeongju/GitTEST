@@ -16,7 +16,9 @@ namespace GitTEST
         {
             InitializeComponent();
 
-            Console.WriteLine("TEST");
+            Console.WriteLine("TEST1");
+
+            Console.WriteLine("TEST2");
         }
     }
 }
