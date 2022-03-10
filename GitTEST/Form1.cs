@@ -23,7 +23,7 @@ namespace GitTEST
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            button.Text = "TEST";
+            button.Text = "Cancel";
         }
     }
 }
