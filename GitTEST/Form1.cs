@@ -20,5 +20,10 @@ namespace GitTEST
 
             Console.WriteLine("TEST2");
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            button.Text = "TEST";
+        }
     }
 }
