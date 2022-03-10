@@ -23,7 +23,12 @@ namespace GitTEST
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            button.Text = "Cancel";
+            button.Text = "Hello";
+        }
+
+        private void button_Click(object sender, EventArgs e)
+        {
+            Console.WriteLine("Button 완료");
         }
     }
 }
